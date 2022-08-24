@@ -1,8 +1,9 @@
 <template>
-  <h1>Users Create</h1>
+  <Tutorial />
 </template>
+
 <script>
 export default {
-  name: 'UsersCreate'
+  name: 'IndexPage'
 }
 </script>
